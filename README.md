@@ -9,7 +9,7 @@ Projeto em construção utilizando HTML, CSS, JavaScript
 Assets | Description | Site
 ------------ | ------------- | ------------ 
 Google Fonts | Font Types by Google | https://fonts.google.com/
-Icons Google | Icons by Google |  https://fonts.google.com/icons
+Remix Icon | Simply Delightful Icon System |  https://remixicon.com/
 Swiper | The Most Modern Mobile Touch Slider | https://swiperjs.com/
 
 <br>
