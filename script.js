@@ -33,3 +33,15 @@ function scrollHeader() {
   else header.classList.remove('scroll-header')
 }
 window.addEventListener('scroll', scrollHeader)
+
+// Swiper Discover
+let swiper = new Swiper(".discover__container", {
+  effect: "coverflow",
+  grabCursor: true,
+  centeredSlides: true,
+  slidesPerView: "auto",
+  loop: true,  
+  coverflowEffect: {
+      rotate: 50,
+  },
+})
