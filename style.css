@@ -997,6 +997,14 @@ input {
     max-width: 1024px;
   }
 
+  .discover__container {
+    max-width: 1200px;
+  }
+
+  .discover__card {
+    width: 270px;
+  }
+
   .place__container {
     gap: 3rem 4rem;
   }
@@ -1005,5 +1013,19 @@ input {
   .place__img {
     height: 350px
   }
+
+  .subscribe__bg {
+    background: var(--first-color);
+  }
 }
 
+@media screen and (min-height: 721px) {
+  body {
+    margin: 0;
+  }
+
+  .home__container,
+  .home__img {
+    height: 640px
+  }
+}
