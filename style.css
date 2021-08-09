@@ -996,4 +996,14 @@ input {
   .container {
     max-width: 1024px;
   }
+
+  .place__container {
+    gap: 3rem 4rem;
+  }
+
+  .place__card,
+  .place__img {
+    height: 350px
+  }
 }
+
